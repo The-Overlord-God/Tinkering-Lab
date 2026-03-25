@@ -1,42 +1,46 @@
 # Tinkering-Lab
 
-This is where I Learn, simulate and visualize hardware ideas.
+My personal TinkerCAD workspace for 3D modeling, circuit simulation, and hardware planning before building real projects.
 
-Everything here is made by me in **TinkerCAD** since 8 th grade — from simple logic circuits to full Rcoket 3d models.
+This is where I design, test ideas, and visualize things safely.
 
-## What's inside
+## 📂 My Projects
 
 ### Circuits
-Digital logic and display simulations (planning for Arduino/electronics projects)
+- **Logic Gates Trainer**  
+  Basic AND, OR, NOT gates to learn digital logic  
+  [View in TinkerCAD](https://www.tinkercad.com/things/hNEH2eRXFxm-magnificent-vihelmo)
 
-- Logic Gates Trainer (AND, OR, NOT gates)
-- Binary Adder / Subtractor on 7-Segment Display
-- LED Cube layout (10×10×10 planning for future mega build)
+- **Tesseract LED Cube**  
+  3D LED matrix inspired by Marvel Tesseract  
+  [View in TinkerCAD](https://www.tinkercad.com/things/65RFR4J1NAP-dazzling-hango)
 
-### 3D-Models
-Rcoket, Rover and 3d models
-- **Custom Rocket (full model)**  
-  ![Rocket Full View](3D-Models/rocket-full.png)
-  
-- Batman Tumbler reference parts (gathering for making Batman Tumbler RC car)
+- **LED Matrix Layout**  
+  Planning for animated LED cube  
+  [View in TinkerCAD](https://www.tinkercad.com/things/duZBzSH7UYe-spectacular-esboo)
 
-## Why I use TinkerCAD
+### 3D Models
+- **Custom Rocket**  
+  Full rocket model designed from scratch  
+  [View in TinkerCAD](https://www.tinkercad.com/things/46y9kSRSVPm-rocket-3d-modelguardians-of-the-galaxy)
 
-## Screenshots
-(Upload 4–8 clear PNG exports from TinkerCAD here — drag & drop them into the repo or add them to this README)
+- **Moon Rover**  
+  Wheeled rover for a rough idea for the nasa rover challenge
+  [View in TinkerCAD](https://www.tinkercad.com/things/bs9JFjKjeDi-moon-rover-assembly)
 
-Examples:
-- [logic-gates.png] – Basic gates layout
-- [7-segment-adder.png] – Binary calculator on display
-- [rocket-full-view.png] – Complete rocket design
-- [moon-rover.png] – Chassis with wheels
-- [led-cube-grid.png] – Cube wiring planning
-- [tumbler-parts.png] – Reference pieces
+- **Batman Tumbler Reference Parts**  
+  Collection of parts for planned RC replica  
+  [View in TinkerCAD](https://www.tinkercad.com/things/aVIUDDfB8E6-copy-of-tumbler)
 
-All designs are mine — learned mostly from YouTube tutorials + experimenting.
+## 🎯 Why I Use TinkerCAD
 
-If you want to see them rotatable/live:
-TinkerCAD profile (public designs): https://www.tinkercad.com/users/YOUR_USERNAME_HERE  
-(Replace YOUR_USERNAME_HERE with your actual TinkerCAD username after making key designs public)
+- Helps me visualize circuits and mechanical designs before buying parts
+- Safe place to experiment and make mistakes
+- Great practice for real hardware projects in Overlord-labs
 
-Happy tinkering! ⚙️🔧
+All designs are made by me from scratch.
+
+---
+
+**Made by:** Shallow (The-Overlord-God)  
+Last updated: March 2026
