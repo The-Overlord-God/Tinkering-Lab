@@ -3,6 +3,7 @@
 My personal TinkerCAD workspace for 3D modeling, circuit simulation, and hardware planning before building real projects.
 
 This is where I design, test ideas, and visualize things safely.
+ [TinkerCAD](https://www.tinkercad.com/users/0d9NVOoxKkc)
 
 ## 📂 My Projects
 
