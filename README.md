@@ -10,6 +10,8 @@ This is where I design, test ideas, and visualize things safely.
 - **Logic Gates Trainer**  
   Basic AND, OR, NOT gates to learn digital logic  
   [View in TinkerCAD](https://www.tinkercad.com/things/hNEH2eRXFxm-magnificent-vihelmo)
+  <img width="233" height="187" alt="image" src="https://github.com/user-attachments/assets/56f54e3f-5fe4-4ec2-a0ee-263aea4ea52a" />
+
 
 - **Tesseract LED Cube**  
   3D LED matrix inspired by Marvel Tesseract  
